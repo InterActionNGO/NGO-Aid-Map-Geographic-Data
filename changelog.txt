@@ -1,0 +1,104 @@
+NGO Aid Map Geographic Data
+changelog.txt
+
+@v2.0.0
+- Major release:  geodata model changed to use one table (geolocations.csv).  Point data (not re-published here) derived from Geonames, Open Street Map, GADM, and custom sources.  Latest geopolitical divisions reflected.
+- "AN", Netherlands Antilles removed
+- "AS", American Samoa now has ADM1
+- "AU", Australia ADM1 no longer contain external territories (Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, and Norfolk Island), each elevated to ADM0
+- "AX", Aland Islands no longer ADM0
+- "AZ", Azerbaijan has 1 new ADM1:  Naxcivan Saheri
+- "BH", Bahrain ADM1 "Central" removed
+- "BL", Saint Barthelemy no longer ADM0
+- "BM", Bermuda now has ADM1
+- "BR", Brazil has 1 new ADM1: Santa Catarina
+- "BS", Bahamas has 1 new ADM1: New Providence
+- "BW", Botswana ADM1 Chobe removed
+- "BY", Belarus has 1 new ADM1: Minsk City
+- "CN", China had ADM1s removed: Aksai Chin, Paracel Islands, Taiwan, Xekong.  ADM1 ADDED: Xinjiang Uygur
+- "CU", Cuba has 1 new ADM1: Artemisa
+- "CV", Cape Verde has new ADM1s: Ribeira Brava, Ribeira Grande de Santiago, Santa Catarina do Fogo, Sao Lourenco dos Orgaos, Sao Salvador do Mundo, Tarrafal de Sao Nicolau
+- "CW", Curacao is now ADM0
+- "DK", Denmark ADM1 Faroe Islands removed (is now ADM0)
+- "EH", Western Sahara newly ADM0
+- "ES", Spain ADM1 "Valencian Community" removed
+- "FJ", Fiji has 1 new ADM1: Rotuma
+- "FO", Faroe Islands now have ADM1
+- "FR", France ADM1s removed: Bassas da India, Europa Island, Glorioso Island, Juan de Nova Island, New Caledonia, Tromelin Island.  ADM1s added: Saint Martin, Saint-Barthelemy
+- "GB", Great Britain overseas territories (ADM1) removed: Anguilla, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Guernsey, Isle of Man, Jersey, Montserrat, Pitcairn Islands, Saint Helena/Ascension/Tristan de Cuhna, Turks and Caicos Islands
+- "GF", French Guiana no longer ADM0
+- "GG", Guernsey now has ADM1
+- "GL", Greenland 3 ADM1 removed: Avannaa, Kitaa, Tunu
+- "GN", Guinea ADM1 is now true ADM1 list (rather than ADM2s)
+- "GP", Guadaloupe no longer ADM0
+- "GR", Greece ADM1s significant changes due to political reorganization
+- "GU", Guam now has ADM1
+- "HK", Hong Kong no longer ADM0
+- "HR", Croatia ADM1 Artemisa removed
+- "ID", Indonesia has 1 new ADM1: North Kalimantan
+- "IE", Ireland has new ADM1: Cork City.  Limericks merged into Limerick City and County. North and South Tipperary merged into Tipperary. Waterfords merged into Waterford City and County.
+- "IM", Isle of Man now has ADM1
+- "IN", India has 2 new ADM1: Telangana, Jammu and Kashmir
+- "JE", Jersey now has ADM1
+- "KE", Kenya new ADM1s reflecting newer county divisions
+- "KI", Kiribati now has ADM1
+- "KM", Comoros has very different ADM1s
+- "KR", South Korea has 1 new ADM1: Sejong
+- "KZ", Kazakhstan has new ADM1s:  Almaty (city), Astana (city), Bayqongyr
+- "LB", Lebanon has 2 new ADM1s: Aakkar, Baalbek-Hermel
+- "LC", Saint Lucia has 2 new ADM1s: Dauphin, Praslin.  ADM1 Canaries removed.
+- "LV", Latvia has 1 new ADM1: Mersraga Novads
+- "MF", Saint Martin (French) no longer ADM0
+- "MG", Madagascar has completely new system of ADM1s
+- "MH", Marshall islands now has ADM1
+- "MO", Macao no longer ADM0
+- "MP", Northern Mariana Islands now has ADM1
+- "MQ", Martinique no longer ADM0
+- "MS", Montserrat now has ADM1
+- "MT", Malta now has ADM1
+- "MV", Maldives now has ADM1
+- "NA", Namibia ADM1 Okavango removed. ADM1s added: Kavango East, Kavango West
+- "NC", New Caledonia now has ADM1
+- "NL", Netherlands ADM1s removed: Aruba, Curacao, Netherlands Antilles, Sint Maarten, Zeeuwse meren. ADM1s added: Bonaire-St. Eustatius-Saba, Zuid-Holland
+- "NO", Norway ADM1 Bouvet Island removed and Svalbard and Jan Mayen removed
+- "NU", Niue only ADM1 removed
+- "NZ", New Zealand ADM1 Tokelau removed
+- "OM", Oman ADM1 Al Batinah now split into Al Batinah North and Al Batinah South. ADM1 Ash Sharqiyah split into Ash Sharqiyah North and Ash Sharqiyah South
+- "PE", Peru has 1 new ADM1: Lima Province
+- "PF", French Polynesia no longer ADM0
+- "PG", Papua New Guinea has 2 new ADM1: Jiwaka, Hela
+- "PK", Pakistan has 1 new ADM1: Gilgit-Baltistan
+- "PM", Saint Pierre and Miquelon no longer ADM0
+- "PR", Puerto Rico now has ADM1
+- "PY", Paraguay ADM1 a'eembucu removed
+- "QA", Qatar ADM1s removed: Al Jumayliyah, Al Khor, Al Wakra, Al Rayyan, Doha, Jariyan al BaSlal
+- "RE", Reunion no longer ADM0
+- "RS", Serbia ADM1 is now only two areas: Central, Vojvodina
+- "RU", Russia has 1 new ADM1: Altai Krai
+- "SC", Seychelles now has ADM1
+- "SD", Sudan has new ADM1s: Al Qadarif, Central Darfur, East Darfur
+- "SG", Singapore now has ADM1
+- "SH", Saint Helena now has ADM1
+- "SJ", Svalbard now has ADM1
+- "SX", Sint Maartin (Dutch) is now ADM0
+- "TD", Chad ADM1 Ennedi split into Ennedi-Est and Ennedi-Ouest
+- "TF", French Southern and Antarctic Lands no longer ADM0
+- "TH", Thailand has 1 new ADM1: Bueng Khan
+- "TJ", Tajikistan has 1 new ADM1: Dushanbe
+- "TK", Tokelau now has ADM1
+- "TR", Turkey has new ADM1s: Ardahan, Kilis, Kirikkale
+- "TT", Trinidad and Tobago significant ADM1 changes
+- "TV", Tuvalu now has ADM1
+- "TW", Taiwan now has ADM1
+- "TZ", Tanzania ADM1s added: Geita, Katavi, Njombe, Simiyu
+- "UG", Uganda now has ADM1 correctly assigned to 4 areas. Previous list was actually ADM2.
+- "UM", United States Minor Outlying Islands now has ADM1
+- "US", United States ADM1 removed: Puerto Rico, American Samoa, Guam
+- "VI", Virgin Islands (US) now has ADM1
+- "WF", Wallis and Fortuna Islands no longer ADM0
+- "XK", Kosovo is now ADM0 with its own ADM1
+- "YE", Yemen has 1 new ADM1: Socotra
+- "YT", Mayotte no longer ADM0
+
+@v1.0.0
+- original data published: countries.csv and regions.csv
