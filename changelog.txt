@@ -1,6 +1,8 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- gn_3578476 name changed to "Saint-Barthelemy"
+
 @v2.0.0
 - Major release:  geodata model changed to use one table (geolocations.csv).  Point data (not re-published here) derived from Geonames, Open Street Map, GADM, and custom sources.  Latest geopolitical divisions reflected.
 - "AN", Netherlands Antilles removed
