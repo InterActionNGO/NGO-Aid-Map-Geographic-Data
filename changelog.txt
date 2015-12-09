@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
-
+@v2.1.0
+- Uganda's 4 regions removed as admin level 1, replaced by 111 districts + Kampala
 - gn_3578476 name changed to "Saint-Barthelemy"
 
 @v2.0.0
