@@ -1,5 +1,8 @@
 NGO Aid Map Geographic Data
 changelog.txt
+
+- Changed source of Fiji data from Natural Earth to Geonames. New ids, coordinates. Same administrative areas.
+- Added curated ADM2 for USA
 @v2.1.0
 - Uganda's 4 regions removed as admin level 1, replaced by 111 districts + Kampala
 - gn_3578476 name changed to "Saint-Barthelemy"
