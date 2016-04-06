@@ -1,6 +1,9 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+@v2.2.0
+- Removed several uncurated areas in Ireland (with no adm_level assigned)
+- Added curated ADM2 for Sierra Leone and Bangladesh
 - Changed source of Fiji data from Natural Earth to Geonames. New ids, coordinates. Same administrative areas.
 - Added curated ADM2 for USA
 @v2.1.0
