@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Burkina Faso
 - Added ADM2 for Malawi
 @v2.2.0
 - Removed several uncurated areas in Ireland (with no adm_level assigned)
