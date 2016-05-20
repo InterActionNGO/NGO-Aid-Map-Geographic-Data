@@ -1,6 +1,8 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for South Africa
+- Added ADM2 for Belgium
 - Added ADM2 for Burkina Faso
 - Added ADM2 for Malawi
 @v2.2.0
