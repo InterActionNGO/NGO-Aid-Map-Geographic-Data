@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Virgin Islands, US
 - Added ADM2 for South Africa
 - Added ADM2 for Belgium
 - Added ADM2 for Burkina Faso
