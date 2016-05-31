@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Luxembourg
 - Added ADM2 for Honduras
 - Added ADM2 for Virgin Islands, US
 - Added ADM2 for South Africa
