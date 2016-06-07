@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Nicaragua
 - Added ADM2 for Ecuador
 - Updated 2 ADM2 names for Chile
 - Added ADM2 for Chile
