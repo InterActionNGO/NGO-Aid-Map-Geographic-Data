@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Kosovo
 - Added ADM2 for Togo
 - Added ADM2 for Nicaragua
 - Added ADM2 for Ecuador
