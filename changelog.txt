@@ -1,6 +1,7 @@
 NGO Aid Map Geographic Data
 changelog.txt
 
+- Added ADM2 for Brazil
 - Removed adm2 for Peru, was missing source for newer Putumayo province
 - Added ADM2 for Peru
 - Added ADM2 for Kosovo
